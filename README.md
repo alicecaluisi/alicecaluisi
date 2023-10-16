@@ -8,7 +8,7 @@ I'm a passionate Experimental Physics master's student at Utrecht University wit
 
 ## 💻 Contributions to the ALICE Experiment Analysis Framework
 
-- 🌠 **Run3 Jets Analysis**: As part of my master's thesis, I actively contribute to O2Physics - the ALICE experiment analysis framework - focusing on the jets framework in Run3. Here is the link to the task I have been working on so far: [Tracks Quality Assurance](https://github.com/AliceO2Group/O2Physics/blob/master/PWGJE/Tasks/trackJetqa.cxx).
+- 🌠 **Run3 Jets Analysis**: As part of my master's thesis, I actively contribute to O2Physics - the ALICE experiment analysis framework - focusing on the jets framework in Run3. Here is the link to the task I am working on now: [Tracks Quality Assurance](https://github.com/AliceO2Group/O2Physics/blob/master/PWGJE/Tasks/trackJetqa.cxx). More to come next...😉
   
 - ✨ **Run2 Azimuthal Correlation Functions**: During my CERN Summer School, I conducted research and contributed to the ALICE experiment analysis framework by studying the azimuthal correlation function of prompt D mesons with charged particles in Run2 data. I applied the Von Mises function for data fitting, providing valuable insights into particle behavior and interactions. You can read more about my research results here: [Study of the azimuthal correlation function of prompt D mesons with charged particles using the Von Mises function for fitting the data](https://alice-collaboration.web.cern.ch/node/35669)
 
