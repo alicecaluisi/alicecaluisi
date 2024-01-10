@@ -9,7 +9,8 @@ I'm a passionate Experimental Physics master's student at Utrecht University wit
 ## 💻 Contributions to the ALICE Experiment Analysis Framework
 
 - 🌠 **Run3 Jets Analysis**: As part of my master's thesis, I actively contribute to O2Physics - the ALICE experiment analysis framework - focusing on the jets framework in Run3. Here are the links to my contributions: 
-[Track Quality Assurance](https://github.com/alicecaluisi/O2Physics/blob/master/PWGJE/Tasks/trackJetqa.cxx). 
+[Track Quality Assurance](https://github.com/alicecaluisi/O2Physics/blob/master/PWGJE/Tasks/trackJetqa.cxx)
+
 [Cut Variation Study on Tracks](https://github.com/alicecaluisi/TrackCutStudy/blob/main/CutVariations/CutVar.sh)
 
 More to come next...😉
