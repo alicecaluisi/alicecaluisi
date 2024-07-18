@@ -10,11 +10,11 @@ I'm a passionate Physicist with an engineering background now working in data sc
 
 - 🌠 **Run3 Jets Analysis**: As part of my master's thesis, I have actively contributed to O2Physics - the ALICE experiment analysis framework - focusing on the jets framework in Run3. Here are the links to my contributions:
   
-[Track Quality Assurance]([https://github.com/alicecaluisi/O2Physics/blob/master/PWGJE/Tasks/trackJetqa.cxx](https://github.com/AliceO2Group/O2Physics/blob/master/PWGJE/Tasks/trackJetqa.cxx)
+  [Track Quality Assurance](https://github.com/alicecaluisi/O2Physics/blob/master/PWGJE/Tasks/trackJetqa.cxx](https://github.com/AliceO2Group/O2Physics/blob/master/PWGJE/Tasks/trackJetqa.cxx)
 
-[Jet Lund Reclustering](https://github.com/AliceO2Group/O2Physics/blob/master/PWGJE/Tasks/jetLundReclustering.cxx)
+  [Jet Lund Reclustering](https://github.com/AliceO2Group/O2Physics/blob/master/PWGJE/Tasks/jetLundReclustering.cxx)
 
-You can read more about my research results in my [Master final thesis](https://studenttheses.uu.nl/handle/20.500.12932/46251).
+  You can read more about my research results in my [Master final thesis](https://studenttheses.uu.nl/handle/20.500.12932/46251).
   
 - ✨ **Run2 Azimuthal Correlation Functions**: During my CERN Summer School, I conducted research and contributed to the ALICE experiment analysis framework by studying the azimuthal correlation function of prompt D mesons with charged particles in Run2 data. I applied the Von Mises function for data fitting, providing valuable insights into particle behavior and interactions. You can read more about my research results here: [Study of the azimuthal correlation function of prompt D mesons with charged particles using the Von Mises function for fitting the data](https://alice-collaboration.web.cern.ch/node/35669)
 
