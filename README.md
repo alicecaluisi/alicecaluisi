@@ -10,7 +10,7 @@ I'm a passionate Physicist with an engineering background now working in data sc
 
 - 🌠 **Run3 Jets Analysis**: As part of my master's thesis, I have actively contributed to O2Physics - the ALICE experiment analysis framework - focusing on the jets framework in Run3. Here are the links to my contributions:
   
-  [Track Quality Assurance](https://github.com/alicecaluisi/O2Physics/blob/master/PWGJE/Tasks/trackJetqa.cxx](https://github.com/AliceO2Group/O2Physics/blob/master/PWGJE/Tasks/trackJetqa.cxx)
+  [Track Quality Assurance](https://github.com/AliceO2Group/O2Physics/blob/master/PWGJE/Tasks/trackJetqa.cxx)
 
   [Jet Lund Reclustering](https://github.com/AliceO2Group/O2Physics/blob/master/PWGJE/Tasks/jetLundReclustering.cxx)
 
