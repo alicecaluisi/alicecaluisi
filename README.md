@@ -6,6 +6,16 @@ I'm a passionate Physicist with an engineering background now working in data sc
 - 💼 **Current Role**: Engaged in data science, data engineering, and data analysis, applying my expertise to evaluate model performance predictions and manage financial data.
 - 🔬 **Previous Research**: My master's thesis involved working with the ALICE experiment at CERN, specifically on extracting the strong coupling constant from the Lund Plane with jets in proton-proton collisions. This pioneering application of the Lund Plane to Run3 data was an exciting opportunity to explore potential new discoveries.
 
+## 🌙 Personal Project: Lunar Farming (work in progress)
+Alongside my professional work, I am building **Lunar Farming**, a small project I am actively developing into a mobile app. The idea was born when I moved to my house in the countryside: I had a piece of land to cultivate, and so I started gardening with zero experience and, learning step by step (and through plenty of mistakes), I realized how relevant Moon phases can be when sowing and planning tasks in the garden. That’s when I decided to combine my passion for gardening, physics, and coding into a single project. As a physicist, I also wanted to build something that computes the lunar phase (instead of just reading it from a website) and turns it into practical, simple guidance.
+
+**What Lunar Farming does (currently):**
+- Computes **Moon age**, **illumination**, and the **lunar phase name**
+- Provides **month-based gardening tips** depending on the Moon phase
+- Exposes the data via a small **FastAPI JSON endpoint**, so it can be consumed by a frontend (which is in progress)
+
+Repo: [LunarFarming](https://github.com/alicecaluisi/LunarFarming)
+
 ## 💻 Contributions to the ALICE Experiment Analysis Framework
 
 - 🌠 **Run3 Jets Analysis**: As part of my master's thesis, I have actively contributed to O2Physics - the ALICE experiment analysis framework - focusing on the jets framework in Run3. Here are the links to my contributions:
@@ -20,12 +30,12 @@ I'm a passionate Physicist with an engineering background now working in data sc
 
 ## 🚀 My Expertise
 
-- Particle Physics
 - Data Analysis
 - Data Science
 - Coding and Programming
 - Physical Engineering
 - Research and Development
+- Particle Physics
 
 ## 👋 Connect with Me
 
